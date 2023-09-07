@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Animal-Utility-with-Redux-/static/css/main.2b4c31db.css",
+    "main.js": "/Animal-Utility-with-Redux-/static/js/main.f2e83d19.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Animal-Utility-with-Redux-/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Animal-Utility-with-Redux-/index.html",
+    "main.2b4c31db.css.map": "/Animal-Utility-with-Redux-/static/css/main.2b4c31db.css.map",
+    "main.f2e83d19.js.map": "/Animal-Utility-with-Redux-/static/js/main.f2e83d19.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Animal-Utility-with-Redux-/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b4c31db.css",
+    "static/js/main.f2e83d19.js"
+  ]
+}
