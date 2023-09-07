@@ -18,3 +18,5 @@ An input bar to change number of images being displayed.
 Some animations on hovering over images along with displaying of delete icon and text.
 
 Responsive Page for diffrenet screen for beautiful UI. 
+
+Deployed at- https://lakshyaaggarwal2002.github.io/Animal-Utility-with-Redux-/
