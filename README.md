@@ -8,6 +8,7 @@ For styling custom css is written in file ulitity.css along with media queries t
 
 Redux toolkit is used for state management instead of usestate hooks.
 
+Upto 150 images can currently being dispplayed as we are just parsing through an array of image urls for now.
 
 Features-
 
